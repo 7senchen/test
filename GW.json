@@ -111,6 +111,150 @@
             "url":"https://str-1.mediabay.tv/SportUz/tracks-v1a1/playlist.m3u8"
         },
         {
+            "name":"HTM HD TV",
+            "url":"http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8"
+        },
+        {
+            "name":"Trace Kitoko TV (Music)",
+            "url":"https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/5/prog_index.m3u8"
+        },
+        {
+            "name":"CBN News TV HD",
+            "url":"http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_1200_av-b.m3u8"
+        },
+        {
+            "name":"1HD Music TV (Music)",
+            "url":"http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v3a1/index.m3u8"
+        },
+        {
+            "name":"Music Choice TV HD (Teen Beats)",
+            "url":"http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/chunklist.m3u8"
+        },
+        {
+            "name":"Телеканал 360° TV",
+            "url":"http://85.132.71.6/ru/360/index.m3u8"
+        },
+        {
+            "name":"Телеканал 360° HD TV",
+            "url":"http://now2.eaglecdn.com/stream_transcoded_720/360tv_360media_hi/index.m3u8"
+        },
+        {
+            "name":"BigBuckBunny HD TV",
+            "url":"http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8"
+        },
+        {
+            "name":"NR1 4K Ultra HD (Music)",
+            "url":"http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/chunklist_w1408563973.m3u8"
+        },
+        {
+            "name":"CMC Music TV",
+            "url":"http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8"
+        },
+        {
+            "name":"Sony Movie Channel TV HD (Movies)",
+            "url":"http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8"
+        },
+        {
+            "name":"MTV HD",
+            "url":"http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_256_av-p.m3u8"
+        },
+        {
+            "name":"Bloomberg TV FHD (News)",
+            "url":"https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8"
+        },
+        {
+            "name":"CBS-24 NEWS TV HD (News)",
+            "url":"http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8"
+        },
+        {
+            "name":"Fox Movie TV (Movies)",
+            "url":"http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8"
+        },
+        {
+            "name":"MSNBC TV HD (News)",
+            "url":"http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8"
+        },
+        {
+            "name":"CNN TV HD (News)",
+            "url":"http://ott-cdn.ucom.am/s27/04.m3u8"
+        },
+        {
+            "name":"ABC 24 News TV",
+            "url":"http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8"
+        },
+        {
+            "name":"Music Choice TV HD",
+            "url":"http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8"
+        },
+        {
+            "name":"Music Choice TV HD (Toddler Tunes)",
+            "url":"http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC144/chunklist.m3u8"
+        },
+        {
+            "name":"Music Choice TV HD (Kidz Only)",
+            "url":"http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC130/chunklist.m3u8"
+        },
+        {
+            "name":"Music Choice TV HD (Y2K)",
+            "url":"http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC145/chunklist.m3u8"
+        },
+        {
+            "name":"MSNBC TV (News)",
+            "url":"http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_2596_av-p.m3u8"
+        },
+        {
+            "name":"CBN TV NEWS",
+            "url":"http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-b.m3u8"
+        },
+        {
+            "name":"CBN TV HD (News)",
+            "url":"http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-b.m3u8"
+        },
+        {
+            "name":"Byu TV HD",
+            "url":"http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8"
+        },
+        {
+            "name":"Bloomberg TV FHD",
+            "url":"http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"
+        },
+        {
+            "name":"Beach TV HD",
+            "url":"http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w1824157812.m3u8"
+        },
+        {
+            "name":"Panama City TV HD",
+            "url":"http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chunklist_w86683521.m3u8"
+        },
+        {
+            "name":"UN Web TV",
+            "url":"https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/index_1328_av-p.m3u8"
+        },
+        {
+            "name":"SONY",
+            "url":"http://stream.euroasia.lfstrm.tv/sony/1/index.m3u8"
+        },
+        {
+            "name":"QVC TV HD USA",
+            "url":"http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/chunklist_b4192000.m3u8"
+        },
+        {
+            "name":"QVC2 TV HD USA",
+            "url":"http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b4192000.m3u8"
+        },
+        {
+            "name":"QVC Beauty IQ TV HD USA",
+            "url":"http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/chunklist_b4192000.m3u8"
+        },
+        {
+            "name":"QVC TV HD UK",
+            "url":"http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8"
+        },
+        {
+            "name":"QVC Beauty TV HD UK",
+            "url":"http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/3/prog_index.m3u8"
+        },
+        {
             "name":"BBC One(须UK梯子)",
             "url":"http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8"
         },
